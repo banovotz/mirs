@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MIRS - Eau de Parfum</title>
     <meta name="description" content="MIRS. Eau de parfum.">
-    <meta property="og:image" content="https://davorbanovic.com/mirs/img/bocica.png" />
+    <meta property="og:image" content="https://davorbanovic.com/mirs/bocica.png" />
     <meta property="og:description" content="MIRS. Eau de parfum." />
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
@@ -23,6 +23,7 @@
                     <li><a href="#about">O parfemu</a></li>
                     <li><a href="#notes">Note</a></li>
                     <li><a href="#buy">Kupi</a></li>
+                    <li><a href="#mirs-quiz">MIRS Kviz</a></li>
                     <li><a href="#contact">Kontakt</a></li>
                     <li><a href="#about-us">O nama</a></li>
                 </ul>
@@ -135,6 +136,28 @@
                 <h2>O nama</h2>
                 <p>Od najranijih sjećanja, svijet mirisa me očaravao. Ali nijedan miris nije bio tako zagonetan, tako neuhvatljiv kao miris žene. Kako je teško pronaći idealnu ženu, još je i teže pronaći savršenu mirisnu esenciju koja doista odražava njenu dušu i dozvoljava joj da bude ono što jest. Ovaj parfem je plod neprekinute potrage za mirisom žene koja odiše elegancijom ne skrivajući divlju ljepotu sirove prirode. MIRS je stvoren iz te predanosti - za ženu koja se usuđuje biti. </p>
                 <p>D.B.</p>
+            </div>
+        </section>
+        <section id="mirs-quiz" class="section mirs-quiz-section">
+            <div class="container">
+                <h2>Pronađi Svoj MIRS</h2>
+                <p class="quiz-intro">Odgovorite na nekoliko pitanja i otkrijte zašto je MIRS savršen odraz vaše osobnosti i stila!</p>
+
+                <div id="quiz-container">
+                    <div id="quiz-question" class="quiz-card">
+                        <p class="question-text"></p>
+                        <div class="options-container">
+                            </div>
+                        <button id="next-question-btn" class="btn">Dalje</button>
+                    </div>
+
+                    <div id="quiz-result" class="quiz-card" style="display:none;">
+                        <h3>Tvoj idealan miris je MIRS!</h3>
+                        <p class="result-text"></p>
+                        <a href="#buy" class="btn">Kupi MIRS odmah</a>
+                        <button id="restart-quiz-btn" class="btn secondary-btn">Ponovi kviz</button>
+                    </div>
+                </div>
             </div>
         </section>
     </main>
