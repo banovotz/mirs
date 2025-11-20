@@ -172,26 +172,23 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         const targetId = this.getAttribute('href');
         const targetElement = document.querySelector(targetId);
 
-        // Sakrij sve sekcije i prikaži samo ciljanu
-        document.querySelectorAll('main section').forEach(section => section.style.display = 'none');
-
-        // Posebno rukovanje za ikonu košarice i kviz
-        if (targetId === '#cart') {
-            cartSection.style.display = 'block';
-            updateCartDisplay();
-        } else if (targetId === '#mirs-quiz') {
-            mirsQuizSection.style.display = 'block';
-            loadQuestion(); // Inicijaliziraj kviz
-        } else if (targetElement) { // Za ostale regularne sekcije
-            targetElement.style.display = 'block';
-        }
-
-        // Skrolanje na odabranu sekciju
         if (targetElement) {
             targetElement.scrollIntoView({
                 behavior: 'smooth'
             });
         }
+
+        // --- Posebno rukovanje za kviz i košaricu ---
+        // Budući da se sekcije više ne skrivaju, ove se sekcije moraju prikazati na drugačiji način
+        // ako su inicijalno skrivene (kao što su košarica i kviz).
+        // Standardne sekcije (about-us, about-perfume, notes, buy, contact) su ionako vidljive.
+
+        // Ako je kliknuta košarica ili kviz, osigurajte da su vidljivi
+       if (targetId === '#mirs-quiz') {
+            mirsQuizSection.style.display = 'block'; // Pokaži sekciju kviza
+            loadQuestion(); // Inicijaliziraj kviz
+        }
+        // Za ostale sekcije, ne radimo ništa jer bi trebale biti uvijek vidljive po defaultu
     });
 });
 
