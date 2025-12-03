@@ -630,9 +630,6 @@ footer {
         margin-bottom: 10px;
     }
 }
-/* ========================================= */
-/* 3. INTERAKTIVNA PIRAMIDA NOTA (NOVA SEKCIJA) */
-/* ========================================= */
 
 .interactive-pyramid-section {
     padding-top: 100px;
@@ -662,7 +659,7 @@ footer {
 /* Stil za pojedine slojeve piramide (Top, Middle, Base) */
 .pyramid-layer {
     width: 90%; /* Smanjujemo širinu da otkrijemo sliku piramide sa strane */
-    padding: 20px 0;
+    padding: 10px 0;
     text-align: center;
     box-sizing: border-box;
     border-bottom: none; 
@@ -693,7 +690,7 @@ footer {
     position: relative;
     
     /* Boje za bolju čitljivost */
-    background-color: var(--primary-color); 
+    background-color: var(--bg-dark); 
     color: var(--light-text-color); /* Svijetli tekst na tamnoj pozadini */
 }
 
