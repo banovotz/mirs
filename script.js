@@ -192,3 +192,83 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
+// ... (postojeći kod, npr. Firebase inicijalizacija, kviz logika, itd.) ...
+
+// DOM elementi za interaktivnu piramidu
+const noteItems = document.querySelectorAll('.note-item');
+const noteDetailsCard = document.getElementById('note-details-card');
+const detailName = document.getElementById('detail-name');
+const detailImage = document.getElementById('detail-image');
+const detailDesc = document.getElementById('detail-desc');
+const detailRole = document.getElementById('detail-role');
+const perfumeBottleOverlay = document.querySelector('.perfume-bottle-overlay');
+
+// -----------------------------------------------------
+// FUNKCIJA ZA PIRAMIDU NOTA
+// -----------------------------------------------------
+
+// Event listener za HOVER (prikaz detalja note)
+noteItems.forEach(item => {
+    item.addEventListener('mouseenter', function() {
+        const infoDiv = this.querySelector('.note-info');
+        
+        // Ažuriraj karticu s detaljima
+        detailName.textContent = this.querySelector('.note-name').textContent;
+        detailDesc.textContent = infoDiv.querySelector('.note-desc').textContent;
+        detailRole.textContent = infoDiv.querySelector('.note-role').textContent;
+
+        const img = infoDiv.querySelector('.note-image');
+        detailImage.src = img.src;
+        detailImage.alt = img.alt;
+        detailImage.style.display = 'block';
+    });
+
+    item.addEventListener('mouseleave', function() {
+        // Vrati generički tekst nakon što miš napusti notu
+        // (Ovo je opcionalno, možete ostaviti posljednju notu prikazanu)
+        // detailName.textContent = 'Zadržite pokazivač iznad note...';
+        // detailDesc.textContent = '';
+        // detailRole.textContent = '';
+        // detailImage.style.display = 'none';
+    });
+});
+
+// Event listener za CLICK (bočica)
+function scrollToBuySection(event) {
+    event.preventDefault();
+    
+    // Vizualni efekt: kratko pulsiranje/pomicanje bočice
+    perfumeBottleOverlay.classList.add('bottle-clicked');
+    setTimeout(() => {
+        perfumeBottleOverlay.classList.remove('bottle-clicked');
+    }, 500);
+
+    // Skrolanje na sekciju za kupnju
+    const buySection = document.getElementById('buy');
+    if (buySection) {
+        // Prije skrolanja, osiguravamo da je #buy sekcija vidljiva,
+        // s obzirom na vašu raniju logiku skrivanja/prikazivanja sekcija.
+        document.querySelectorAll('main section').forEach(section => section.style.display = 'none');
+        buySection.style.display = 'block';
+
+        buySection.scrollIntoView({
+            behavior: 'smooth'
+        });
+    }
+}
+
+// Dodajte CSS animaciju za 'bottle-clicked' u style.css ako želite napredniji efekt
+// Npr:
+/*
+@keyframes bottle-pulse {
+    0% { transform: scale(1.05) translateX(-50%); }
+    50% { transform: scale(1.0) translateX(-50%); }
+    100% { transform: scale(1.05) translateX(-50%); }
+}
+.perfume-bottle-overlay.bottle-clicked {
+    animation: bottle-pulse 0.3s ease-in-out 2;
+}
+*/
+
+// ... (ostatak vašeg script.js koda) ...
+

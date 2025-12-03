@@ -57,38 +57,95 @@
             </div>
         </section>
 
-        <section id="notes" class="section notes-section">
-            <div class="container">
-                <h2>Mirisne Note</h2>
-                <div class="notes-grid">
-                    <div class="note-card">
-                        <h3>Gornje Note</h3>
-                        <ul>
-                            <li><i class="fa-solid fa-lemon fa-fw"></i>Bergamot - Svijetli, elegantan citrus</li>
-                            <li><i class="fa-solid fa-lemon fa-fw"></i>Grejp - Svježina, energija, iskričavost</li>
-                        </ul>
-                    </div>
-                    <div class="note-card">
-                        <h3>Srednje Note</h3>
-                        <ul>
-                            <li><i class="fa-solid fa-spa fa-fw"></i>Lavanda - Aromatična, balansira citrus i drvo</li>
-                            <li><i class="fa-solid fa-seedling fa-fw"></i>Ružmarin - Oštrina, svježina, "sauvage"
-                                karakter</li>
-                        </ul>
-                    </div>
-                    <div class="note-card">
-                        <h3>Bazne Note</h3>
-                        <ul>
-                            <li><i class="fa-solid fa-mountain fa-fw"></i>Vetiver - Drvenasto, zemljano, snažna baza
-                            </li>
-                            <li><i class="fa-solid fa-tree fa-fw"></i>Cedar - Toplina, dubina, suhi drvenasti ton</li>
-                            <li><i class="fa-solid fa-layer-group fa-fw"></i>Pačuli - Fiksator, povezuje note</li>
-                        </ul>
+        <section id="notes" class="section notes-section interactive-pyramid-section">
+    <div class="container">
+        <h2>Mirisne Note – Otkrijte MIRS</h2>
+        <div class="pyramid-container">
+
+          <!---  <div class="perfume-bottle-overlay" onclick="scrollToBuySection(event)">
+                <img src="img/bocica4.png" alt="MIRS Parfem" class="pyramid-bottle">
+                <div class="bottle-click-prompt">KLIKNI ME ZA KUPNJU!</div>
+            </div>-->
+
+            <div class="pyramid-layer top-notes" data-layer="top">
+                <div class="note-item" data-note="bergamot">
+                    <span class="note-name">Bergamot</span>
+                    <div class="note-info">
+                        <img src="img/bergamot.png" alt="Bergamot" class="note-image">
+                        <p class="note-desc">Svijetli, elegantan citrus (1.2)</p>
+                        <p class="note-role">Svježina i otvaranje mirisa.</p>
                     </div>
                 </div>
-                <p class="concentration"><sup>*</sup> Eau de Parfum (parfemska voda) u sastavu ima 20% esencijalnih mirisnih ulja</p>
+                <div class="note-item" data-note="grejp">
+                    <span class="note-name">Grejp</span>
+                    <div class="note-info">
+                        <img src="img/grejp.png" alt="Grejp" class="note-image">
+                        <p class="note-desc">Svježina, energija, iskričavost (0.6)</p>
+                        <p class="note-role">Daje "iskričavost" i gornju notu.</p>
+                    </div>
+                </div>
             </div>
-        </section>
+
+            <div class="pyramid-layer middle-notes" data-layer="middle">
+                <div class="note-item" data-note="lavanda">
+                    <span class="note-name">Lavanda</span>
+                    <div class="note-info">
+                        <img src="img/lavanda.png" alt="Lavanda" class="note-image">
+                        <p class="note-desc">Aromatična, balansira citrus i drvo (0.8)</p>
+                        <p class="note-role">Srce mirisa, donosi mir i ravnotežu.</p>
+                    </div>
+                </div>
+                <div class="note-item" data-note="ruzmarin">
+                    <span class="note-name">Ružmarin</span>
+                    <div class="note-info">
+                        <img src="img/ruzmarin.png" alt="Ružmarin" class="note-image">
+                        <p class="note-desc">Oštrina, svježina, "sauvage" karakter (0.4)</p>
+                        <p class="note-role">Dodaje mediteranski, divlji karakter.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pyramid-layer base-notes" data-layer="base">
+                <div class="note-item" data-note="vetiver">
+                    <span class="note-name">Vetiver</span>
+                    <div class="note-info">
+                        <img src="img/vetiver.png" alt="Vetiver" class="note-image">
+                        <p class="note-desc">Drvenasto, zemljano, snažna baza (0.8)</p>
+                        <p class="note-role">Temelj mirisa, izdržljivost i dubina.</p>
+                    </div>
+                </div>
+                <div class="note-item" data-note="cedar">
+                    <span class="note-name">Cedar</span>
+                    <div class="note-info">
+                        <img src="img/cedar.png" alt="Cedar" class="note-image">
+                        <p class="note-desc">Toplina, dubina, suhi drvenasti ton (1.0)</p>
+                        <p class="note-role">Daje toplinu i suhi drvenasti ton.</p>
+                    </div>
+                </div>
+                <div class="note-item" data-note="paculi">
+                    <span class="note-name">Pačuli</span>
+                    <div class="note-info">
+                        <img src="img/paculi.png" alt="Pačuli" class="note-image">
+                        <p class="note-desc">Fiksator, povezuje note (0.4)</p>
+                        <p class="note-role">Povezuje sve slojeve i osigurava postojanost.</p>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+             
+        <p class="concentration">Eau de Parfum (≈ 20% mirisnih ulja)</p>
+
+        <div id="note-details-card" class="note-details-card">
+            <h3 id="detail-name">Zadržite pokazivač iznad note...</h3>
+            <img id="detail-image" src="" alt="Slika note" style="display: none;">
+            <p id="detail-desc"></p>
+            <p id="detail-role"></p>
+             <a href="#contact" class="btn">Obavijesti me</a></button>
+        </div>
+
+    </div>
+</section>
 
         <section id="buy" class="section buy-section">
             <div class="container">
