@@ -647,8 +647,8 @@ footer {
     
     /* POZADINSKA SLIKA PIRAMIDE */
     background: 
-        url("img/piramida-pozadina.png") no-repeat center bottom;
-    background-size:76% auto; /* Veličina pozadinske slike piramide */
+        url("img/piramida-pozadina.png") no-repeat center center;
+    background-size:45% auto; /* Veličina pozadinske slike piramide */
     background-color: var(--bg-light); /* Boja ispod slike */
 
     padding: 40px 20px 80px 20px; /* Povećan donji padding zbog vizuala */
