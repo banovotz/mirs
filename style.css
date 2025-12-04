@@ -801,7 +801,7 @@ footer {
 /* MEDIA QUERIES ZA RESPONSIVNOST */
 @media (max-width: 600px) {
     .pyramid-container {
-        padding: 20px 10px 20px 10px;
+        padding: 10px 10px 10px 10px;
         background-size: 100% auto;
     }
     
