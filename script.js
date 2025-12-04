@@ -209,7 +209,7 @@ const perfumeBottleOverlay = document.querySelector('.perfume-bottle-overlay');
 
 // Event listener za HOVER (prikaz detalja note)
 noteItems.forEach(item => {
-    item.addEventListener('mouseenter', function() {
+    item.addEventListener('click', function() {
         const infoDiv = this.querySelector('.note-info');
         
         // Ažuriraj karticu s detaljima
