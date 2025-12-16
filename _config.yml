@@ -1,6 +1,6 @@
 title: MIRS Perfumes
 description: MIRS je EDP parfem za žene koji spaja sofisticiranost i neukrotivu prirodu.
-baseurl: "/mirs"  # Mora početi s kosom crtom, naziv repozitorija
+baseurl: "/  # Mora početi s kosom crtom, naziv repozitorija
 url: "https://mirsperfumes.eu"
 permalink: /blog/:title/
 markdown: kramdown
