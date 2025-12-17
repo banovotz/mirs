@@ -30,7 +30,7 @@ Nećete naići na identičan miris u prolazu. MIRS je dizajniran da izazove znat
 > "Ne želim masovno proizvedeni parfem!"
 
 
-Ne tražite dalje MIRS je baš to -  proizvod male radionice koji obogaćuje vaš svakodnevni prostor. U radionici trenutno radim samo ja, vaš potpisani parfumer :) 
+Ne tražite dalje MIRS je baš to -  proizvod male radionice koji obogaćuje vašu svakodnevnicu. U radionici trenutno radim samo ja, vaš potpisani parfumer :) 
 
 
 Zaključak: Ako tražite postojanost, jedinstvenost i parfumerski entuzijazam, MIRS je jasan izbor. Prestanite nositi mirise, počnite nositi potpis.
