@@ -1,5 +1,5 @@
 ---
-title: Zašto bih trebala odabrati MIRS parfem? (Odgovor za svaku modernu ženu)
+title: Zašto bih trebala odabrati MIRS parfem?
 author: Davor Banović
 ---
 
