@@ -12,6 +12,7 @@ defaults:
   - scope:
       path: "" # an empty string here means all files of a type
       type: "posts"
+      social-share: true
     values:
       description: ""
       author: ""

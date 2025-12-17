@@ -1,6 +1,7 @@
 ---
 title: Zašto bih trebala odabrati MIRS parfem?
 author: Davor Banović
+image: assets/img/pozadina.png
 ---
 
 > "Na tržištu postoji toliko izbora, zašto bih trebala koristiti baš MIRS?"

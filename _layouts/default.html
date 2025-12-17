@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.logo | absolute_url }}{% endif %}">
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | normalize_whitespace | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
 </head>
 <body class="{% if page.layout == 'home' %}home{% else %}subpage{% endif %}">
 
