@@ -2,14 +2,14 @@
 <header class="hero-section">
     <div class="hero-content">
         <nav class="navbar">
-            <div class="logo"><a href="{{ '/' | relative_url }}" style="color: inherit;">MIRS</a></div>
+            <div class="logo"><a href="{{ '/' |  }}" style="color: inherit;">MIRS</a></div>
             <ul class="nav-links">
-                <li><a href="{{ '/' | relative_url }}#about">O parfemu</a></li>
-                <li><a href="{{ '/' | relative_url }}#notes">Note</a></li>
-                <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-                <li><a href="{{ '/' | relative_url }}#buy">Kupi</a></li>
-                <li><a href="{{ '/' | relative_url }}#mirs-quiz">Kviz</a></li>
-                <li><a href="{{ '/' | relative_url }}#contact">Kontakt</a></li>
+                <li><a href="{{ '/' }}#about">O parfemu</a></li>
+                <li><a href="{{ '/' |  }}#notes">Note</a></li>
+                <li><a href="{{ '/blog/' |  }}">Blog</a></li>
+                <li><a href="{{ '/' |  }}#buy">Kupi</a></li>
+                <li><a href="{{ '/' |  }}#mirs-quiz">Kviz</a></li>
+                <li><a href="{{ '/' |  }}#contact">Kontakt</a></li>
             </ul>
         </nav>
         <div class="hero-text">
@@ -21,11 +21,11 @@
 </header>
 {% else %}
 <nav class="navbar" style="background-color: var(--bg-dark);">
-    <div class="logo"><a href="{{ '/' | relative_url }}" style="color: var(--light-text-color);">MIRS</a></div>
+    <div class="logo"><a href="{{ '/' |  }}" style="color: var(--light-text-color);">MIRS</a></div>
     <ul class="nav-links">
-        <li><a href="{{ '/' | relative_url }}#about">O parfemu</a></li>
-        <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-        <li><a href="{{ '/' | relative_url }}#buy">Kupi</a></li>
+        <li><a href="{{ '/' |  }}#about">O parfemu</a></li>
+        <li><a href="{{ '/blog/' |  }}">Blog</a></li>
+        <li><a href="{{ '/' |  }}#buy">Kupi</a></li>
     </ul>
 </nav>
 {% endif %}
