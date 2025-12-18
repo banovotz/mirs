@@ -5,7 +5,6 @@ url: "https://mirsperfumes.eu"
 permalink: /blog/:title/
 markdown: kramdown
 theme: minima
-google_analytics: G-G6RL22HYG7
 
 plugins:
   - jekyll-feed
