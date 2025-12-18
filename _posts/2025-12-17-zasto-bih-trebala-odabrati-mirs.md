@@ -22,7 +22,7 @@ MIRS koristi visokokvalitetne, pažljivo destilirane esencije koje se razvijaju 
 > "Želim originalni miris!"
 
 
-Možda će zvučati popozno ako kažemo da s MIRS parfemima stvaramo trendove, ali svakako ih ne pratimo.  Naša mirisna piramida (gornje, srednje i bazne note)  nije konvencionalne kombinacija. Naprosto želimo, skupa s vama, probati nešto novo.
+Možda će zvučati popozno ako kažemo da s MIRS parfemima stvaramo trendove, ali svakako ih ne pratimo.  Naša mirisna piramida (gornje, srednje i bazne note)  nije konvencionalna kombinacija. Naprosto želimo, skupa s vama, probati nešto novo.
 
 Nećete naići na identičan miris u prolazu. MIRS je dizajniran da izazove znatiželju i postane tema razgovora. 
 
@@ -30,7 +30,7 @@ Nećete naići na identičan miris u prolazu. MIRS je dizajniran da izazove znat
 > "Ne želim masovno proizvedeni parfem!"
 
 
-Ne tražite dalje MIRS je baš to -  proizvod male radionice koji obogaćuje vašu svakodnevicu. U radionici trenutno radim samo ja, vaš potpisani parfumer :) 
+Ne tražite dalje jer MIRS je baš to -  proizvod male radionice koji obogaćuje vašu svakodnevicu. U radionici trenutno radim samo ja, vaš potpisani parfumer :) 
 
 
 Zaključak: Ako tražite postojanost, jedinstvenost i parfumerski entuzijazam, MIRS je jasan izbor. Prestanite nositi mirise, počnite nositi potpis.
