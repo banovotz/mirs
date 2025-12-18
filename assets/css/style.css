@@ -965,7 +965,7 @@ hr {
  	width: 50%;
 	height: 50px;
 	margin-top: 0;
-	border-bottom: 1px solid #333333ac;
+	border-bottom: 1px solid rgb(212, 175, 55);
 
 	box-shadow: 0 1px 1px -0px #bbbbbb7d;
   margin: -50px auto 10px; 
