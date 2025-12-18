@@ -9,6 +9,7 @@ permalink: /blog/
     <div class="container">
         <h1 class="post-title">MIRS Dnevnik</h1>
         <p style="margin-top: 10px;">Priče o mirisima, prirodi i eleganciji.</p>
+      
     </div>
 </div>
 
@@ -23,16 +24,21 @@ permalink: /blog/
                 
                 <div class="blog-card-content">
                     <span class="blog-date">{{ post.date | date: "%d. %m. %Y." }}</span>
-                         <a class="post-link" href="{{ post.url | relative_url }}">  
-                    <h3>{{ post.title }}</h3>
-                    <div class="blog-excerpt">
-                 {{ post.excerpt | strip_html | truncatewords: 20 }}</a>
-                    </div>
+                    <a class="post-link" href="{{ post.url | relative_url }}">  
+                        <h3>{{ post.title }}</h3>
+                        <div class="blog-excerpt">
+                             {{ post.excerpt | strip_html | truncatewords: 20 }}</a>
+                        </div>
                     <a href="{{ post.url | relative_url }}" class="btn">Pročitaj više</a>
                 </div>
             </div>
             {% endfor %}
 
+                  
+
         </div>
+        <section id="about-us" class="section buy-section">
+    <div class="container">
+        <a href="/#about" class="btn">Otkrijte MIRS</a></div></section>
     </div>
 </section>
