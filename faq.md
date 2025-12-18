@@ -2,7 +2,7 @@
 title: Često postavljena pitanja
 layout: post
 description: Često postavljena pitanja
-permalink: faq
+permalink: "/faq/"
 ---
 
 ## 1. Koja je koncentracija MIRS parfema?
