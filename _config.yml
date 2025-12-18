@@ -5,6 +5,8 @@ url: "https://mirsperfumes.eu"
 permalink: /blog/:title/
 markdown: kramdown
 theme: minima
+google_analytics: G-G6RL22HYG7
+
 plugins:
   - jekyll-feed
   
@@ -12,7 +14,6 @@ defaults:
   - scope:
       path: "" # an empty string here means all files of a type
       type: "posts"
-      social-share: true
     values:
       description: ""
       author: ""
