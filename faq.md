@@ -31,7 +31,7 @@ MIRS se proizvodi u Hrvatskoj, u našoj maloj radionici u Višnjevcu.
 
 ## 6.  Jesu li MIRS parfemi u skladu s propisima?
 
-Da. Razvoj i registracija naših parfema provode se u skladu s važećom europskom kozmetičkom regulativom. Postupak izrade sigurnosne i tehničke dokumentacije trenutačno je u tijeku, u suradnji s ovlaštenim stručnjacima.
+Da. Razvoj i registracija naših parfema provode se u skladu s važećom europskom kozmetičkom regulativom. Postupak registracije i izrade sigurnosne i tehničke dokumentacije trenutačno je u tijeku, u suradnji s ovlaštenim stručnjacima.
 
 
 ## 7. Mogu li naručiti MIRS?
