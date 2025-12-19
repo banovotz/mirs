@@ -29,7 +29,15 @@ Zbog visoke EDP koncentracije, MIRS parfemi obično traju između 5 i 8 sati, ov
 
 MIRS se proizvodi u Hrvatskoj, u našoj maloj radionici u Višnjevcu.
 
+## 6.  Jesu li MIRS parfemi u skladu s propisima?
 
-## 6. Mogu li naručiti MIRS?
+Da. Razvoj i registracija naših parfema provode se u skladu s važećom europskom kozmetičkom regulativom. Postupak izrade sigurnosne i tehničke dokumentacije trenutačno je u tijeku, u suradnji s ovlaštenim stručnjacima.
 
-Hvala na interesu :). Trenutno radimo na na prvim količinama za prodaju. Želite da vam javimo kada MIRS bude dostupan? Ostavite nam na formi niže svoj e-mail i kontaktirat ćemo vas čim novi batch bude spreman. Planiramo kreirati i set uzoraka kako biste mirise isprobali na svojoj koži prije kupnje pune bočice.
+
+## 7. Mogu li naručiti MIRS?
+
+Hvala na interesu :)
+
+Proizvodi će biti dostupni nakon dovršetka registracijskog procesa i službene notifikacije, čime osiguravamo potpunu usklađenost i sigurnost za naše kupce.
+
+Želite da vam javimo kada MIRS bude dostupan?  Ostavite nam na formi niže svoj e-mail i kontaktirat ćemo vas čim prvi batch bude spreman. Planiramo kreirati i set uzoraka kako biste mirise isprobali na svojoj koži prije kupnje pune bočice.
