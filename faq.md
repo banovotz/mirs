@@ -21,8 +21,6 @@ Za ljubitelje toplih, senzualnih mirisa: Potražite note vanilije, jantara (ambe
 
 Za ljubitelje svježih, energičnih mirisa: Odaberite note citrusa, bergamota ili zelenog čaja.
 
-Preporučujemo i naručivanje našeg seta uzoraka (Discovery Set) kako biste mirise isprobali na svojoj koži prije kupnje pune bočice.
-
 ## 4. Koliko dugo traje parfem na koži?
 
 Zbog visoke EDP koncentracije, MIRS parfemi obično traju između 5 i 8 sati, ovisno o tipu vaše kože, hidrataciji i okolišu. Najbolja praksa je nanošenje na pulsne točke (zapešća, vrat, iza koljena) kako bi se miris što bolje razvijao.
@@ -34,4 +32,4 @@ MIRS se proizvodi u Hrvatskoj, u našoj maloj radionici u Višnjevcu.
 
 ## 6. Mogu li naručiti MIRS?
 
-Hvala na interesu :) . Trenutno radimo na na prvim količinama za prodaju. Želite da vam javimo kada MIRS bude dostupan? Ostavite nam na formi niže svoj e-mail i kontaktirat ćemo vas čim novi batch bude spreman.
+Hvala na interesu :). Trenutno radimo na na prvim količinama za prodaju. Želite da vam javimo kada MIRS bude dostupan? Ostavite nam na formi niže svoj e-mail i kontaktirat ćemo vas čim novi batch bude spreman. Planiramo kreirati i set uzoraka kako biste mirise isprobali na svojoj koži prije kupnje pune bočice.
