@@ -35,4 +35,4 @@ Ne tražite dalje jer MIRS je baš to -  proizvod male radionice koji obogaćuje
 
 Zaključak: Ako tražite postojanost, jedinstvenost i parfumerski entuzijazam, MIRS je jasan izbor. Prestanite nositi mirise, počnite nositi potpis.
 
-Želite da vam javimo kada MIRS bude dostupan? [**Ostavite nam svoj e-mail i kontaktirat ćemo vas čim novi batch bude spreman.**](http://mirsperfumes.eu/#kontakt)
+Želite da vam javimo kada MIRS bude dostupan? [**Ostavite nam svoj e-mail i kontaktirat ćemo vas čim novi batch bude spreman.**](http://mirsperfumes.eu/#contact)
