@@ -1,10 +1,10 @@
 ---
+title: Kako pravilno nanositi parfem za dugotrajniji miris?
 layout: post
-title: "Kako pravilno nanositi parfem za dugotrajniji miris"
-date: 2025-12-15
-author: "D.B."
-image: "assets/img/bocica2.png" 
-description: "Naučite trikove kako da vaš MIRS traje cijeli dan."
+date: '2025-12-15'
+author: D.B.
+image: assets/img/bocica2.png
+description: Naučite trikove kako da vaš MIRS traje cijeli dan.
 ---
 
 Jeste li znali da način na koji nanosite parfem može drastično utjecati na njegovu postojanost? MIRS je *Eau de Parfum*, što znači da ima visoku koncentraciju ulja, ali uz ove trikove trajat će još duže.

@@ -267,7 +267,7 @@ a {
 
 /* Kontakt sekcija */
 .contact-section {
-    background-color: var(--bg-dark);
+    background-color: var(--bg-light);
     color: var(--primary-color);
 }
 
