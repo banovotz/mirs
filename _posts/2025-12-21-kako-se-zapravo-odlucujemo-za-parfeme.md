@@ -27,7 +27,7 @@ Ono što miriše savršeno na papirnatom testeru ili na prijateljici, na vama mo
 
 Zbog toga je ključno parfem testirati na vlastitoj koži (najbolje na pulsnim točkama, poput zapešća) i nositi ga barem nekoliko sati. Tek tada ćete zaista znati kako se razvija na vama (što nas dovodi do sljedeće točke).
 
-## Razvoj Mirisne Piramide
+## Razvoj mirisne piramide
 Izbor parfema je često pogrešan jer mnogi ljudi donose odluku na temelju gornjih nota (Top Notes), koje su najlakše i najnestabilnije.
 
 Parfemi se razvijaju u tri faze (piramida):
@@ -40,7 +40,7 @@ Parfemi se razvijaju u tri faze (piramida):
 
 Iskusan kupac čeka da se miris smiri do srednjih i baznih nota prije nego donese konačnu odluku.
 
-## Osobnost, Stil i Prigoda
+## Osobnost, stil i prigoda
 Podsvjesno biramo parfem koji se uklapa u priču koju želimo ispričati o sebi:
 
 * Profesionalni kontekst: Za ured ili poslovne sastanke, često biramo čiste, suptilne mirise.
