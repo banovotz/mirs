@@ -1,6 +1,10 @@
 ---
 title: 'Povijest mirisa: Mediteran'
 image: assets/img/provansa.png
+description: Mediteran je jedna od kolijevki civilizacije, ali i mirisa. Dok danas
+  parfeme i kozmetiku smatramo luksuzom, kroz povijest su mirisne tvari s mediteranskih
+  obala bile neophodne u ritualima, medicini i, naravno, osobnoj njezi. Povijest kozmetike
+  je, zapravo, povijest mediteranskih esencija.
 ---
 
 Mediteran je jedna od kolijevki civilizacije, ali i mirisa. Dok danas parfeme i kozmetiku smatramo luksuzom, kroz povijest su mirisne tvari s mediteranskih obala bile neophodne u ritualima, medicini i, naravno, osobnoj njezi. Povijest kozmetike je, zapravo, povijest mediteranskih esencija.
